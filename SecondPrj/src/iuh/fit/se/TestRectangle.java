@@ -1,4 +1,10 @@
 package iuh.fit.se;
+/**
+ * @description A class representing a rectangle with length and width attributes, and methods to calculate area and perimeter.
+ * @author 
+ * @version 1.0
+ * @created Sep 1, 2024
+ */
 
 public class TestRectangle {
 	public static void main(String[] args) {
